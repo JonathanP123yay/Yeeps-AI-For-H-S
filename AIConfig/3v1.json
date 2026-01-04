@@ -1,0 +1,13 @@
+{
+  "mode": "3v1",
+  "confidenceThreshold": 0.6,
+  "noiseRange": 0.1,
+  "maxSimulatedThrows": 20,
+  "throwSpeed": 8.0,
+  "aimConeAngle": 15.0,
+  "targetSelection": {
+    "distanceWeight": 0.5,
+    "exposureWeight": 0.3,
+    "predictabilityWeight": 0.2
+  }
+}
